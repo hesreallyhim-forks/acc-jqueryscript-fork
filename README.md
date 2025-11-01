@@ -1,3 +1,5 @@
+<!--
+
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -269,5 +271,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 ---
 
 ## Contribution Guidelines
+
+-->
 
 **Under Construction**
